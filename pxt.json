@@ -1,5 +1,5 @@
 {
-    "name": "Siguelineas",
+    "name": "Siguelineas2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.17",
+        "target": "4.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
